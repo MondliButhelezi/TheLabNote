@@ -1,4 +1,4 @@
- ![Kartoza](img/kartoza.png)
+ ![Kartoza](Images/kartoza.png)
 # Week one and two
 Tasks for the first two weeks:
 
@@ -7,14 +7,14 @@ Tasks for the first two weeks:
 3. Contribute to OSM and HOT tasks 
 
 ## Simple Africa Map:
-![Workflow](img/simplemap.drawio.png) 
+![Workflow](Images/WorkFlow.png) 
 
 Kartoza references relating to this project:
 1. QGIS Road to Nerdvana Episode 15: Making a small scale map of Africa:
 https://www.youtube.com/watch?v=LJIiZfA7Iio
 2. Modules 3, 5 and 6 (Symbology, Labelling and Composer)
 
-![output](img/Final_attempt2.png)
+![output](Images/SimpleAfricaMap.jpg)
 
 ## Github Exercise:
 1. Fork the Handbook
